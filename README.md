@@ -9,7 +9,7 @@ My focus is to solve problems through Machine Learning, Deep Learning and Data E
 
 You can find some of my projects here on Github or in my [Blog](https://gabrielalberton.github.io/)
 
-[//]: # (![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=gabrielalberton))
+[//]: <> (![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=gabrielalberton))
 
 <p align="center">
 Check out my repos ⬇️  
