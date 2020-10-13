@@ -11,6 +11,3 @@ You can find some of my projects here on Github or in my [Blog](https://gabriela
 <!---
 ![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=gabrielalberton)
 -->
-<p align="center">
-Check out my repos ⬇️  
-</p>
