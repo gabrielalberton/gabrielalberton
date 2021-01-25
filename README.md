@@ -3,7 +3,7 @@
 [![linkedin badge](https://img.shields.io/badge/Gabriel_alberton-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel--)
 [![gmail badge](https://img.shields.io/badge/Gabriel_alberton-30302f?style=flat&logo=Gmail&logoColor=Red&link=mailto:gabrielalberton@hotmail.com)](mailto:gabrielalberton@hotmail.com)
 
-### I am Data Scientist under construction.
+### I'm a data scientist in continuous construction.
 
 My focus is to solve problems through Machine Learning, Deep Learning and Data Engineering.
 
