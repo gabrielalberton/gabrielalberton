@@ -7,6 +7,12 @@
 
 My focus is to solve problems through Machine Learning, Deep Learning and Data Engineering.
 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HELIOPOTELICKI/HELIOPOTELICKI/main/images/tecs/dev-background.gif " width="700">
+</p>
+
 You can find some of my projects here on Github or in my [Blog](https://gabrielalberton.github.io/)
 <!---
 ![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=gabrielalberton)
